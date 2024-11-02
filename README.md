@@ -30,5 +30,17 @@ You can also download the God iPA file and then install it using Altstore, Sidel
 
 iOSGod app is a massive collection of the tweaked apps collection library. This allows users to install unique modded iPA apps, games, tweaked apps, jailbreak apps, and more freely. Also, users can take an iOSGods VIP version, which allows an online signing option to install apps. Users with an Apple developer account can also use this app without signup. 
 
-The free app allows users to download the iPA files of the updated games, tweaks, and jailbreak apps. So users can download the apps in an IPA format and then sign it with the sideload (Pc Tool) like the app. The sideload needs a PC to sideload the IPA files instead of. If you want to install apps directly, you can use Esign patch, Feather, or 9 Installer like on the device iPA signer. 
+The free app allows users to download the iPA files of the updated games, tweaks, and jailbreak apps. So users can download the apps in an IPA format and then sign it with the sideload (Pc Tool) like the app. The sideload needs a PC to sideload the IPA files instead of. If you want to install apps directly, you can use [Esign patch](https://zeejb.com/esign-app/), [Feather](https://zeejb.com/feather-ios/), or [9 Installer ](https://zeejb.com/9-install%d0%b5r/)like on the device iPA signer. 
+
+## Install iOSGods iPA Via AltStore
+
+AltStore is the best alternative app store for the iOS/iPadOS mobile operating systems. It allows users to download apps that are not available on the Apple App Store, including most commonly tweaked "++" apps, Games, Moded apps, jailbreak apps, and paid apps. 
+
+Follow the guide below to install the iOSGods ipa file with the AltStore app. 
+
+- Step 01: [Download and install AltStore to your iDevice](https://zeejb.com/altstore/)
+- Step 02: After configuring AltStore, Download the iOSGods iPA file
+- Step 03: Open the Downloaded iPA file in the AltStore app(Navigate to the "My Apps" tab, then tap on the plus "+" icon at the top, then select the downloaded iOSGods iPA file. 
+- Step 04: First time, the AltStore asks you to enter your iCloud ID and password because AltStore needs those data to sign the iPA file using your Apple ID data. 
+- Step 05: Once you import the iPA file to AltStore, the iPA app will be automatically installed, and you can find the iOSGods app icon on your device's home screen.
 
