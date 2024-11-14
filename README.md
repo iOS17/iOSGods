@@ -48,9 +48,12 @@ Follow the guide below to install the iOSGods ipa file with the AltStore app.
 
 ## iOSGod Repo	
 
-iOSGod was released as a jailbreak tweak, so users can install iOSGods repo on their jailbroken devices using any package manager(Cydia, Sileo, Zebra)
+iOSGod was released as a jailbreak tweak, so users can install iOSGods repo on their jailbroken devices using any package manager(Cydia, [Sileo](https://zeejb.com/sileo/), Zebra)
 
 To install the tweak, add the following repo into your packagemanager. 
+
+![Add iOSGods app in to sileo/cydia](https://github.com/user-attachments/assets/c92c6d28-89e8-4b5d-a546-c66989d84ac6)
+
 
 [Add to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://iosgods.com/repo/)
 [Add to Sileo](sileo://source/https://iosgods.com/repo/)
@@ -58,3 +61,8 @@ To install the tweak, add the following repo into your packagemanager.
 _______________________________________________________________________
 Repo URL -  https://iosgods.com/repo/
 _______________________________________________________________________
+
+![How to install iOSGods using repo cydia, sileo ](https://github.com/user-attachments/assets/a3e381dd-9a68-4946-928e-28ebd59ebbfe)
+
+
+
