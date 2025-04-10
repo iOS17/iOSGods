@@ -1,7 +1,7 @@
-# iOSGods
-iOSGods is the world's most extensive third-party Moded Tweaks app store library. You can find game mods and hacks, tutorials, tools, and related support here.
+# iOSGods - iOS 18.4
+iOSGods is the world's most extensive third-party Moded Tweaks app store library. You can find game mods, hacks, tutorials, tools, and related support here.
 
-iOS God features Hacked/Tweaked iOS Games, iOSGods' Jailed App Store, Free Non-Jailbroken IPA Cheats, and more.
+iOS God features hacked/Tweaked iOS Games, iOSGods' jailbroken App Store, Free Non-Jailbroken IPA Cheats, and more.
 
 ## iOSGods Download:
 iOSGods is for you if you want to customize your iDevice and experience absolute Apple freedom. The iOSGods app is a good choice for iPhone and iPad users; it allows you to install more apps that are unavailable in the App Store. Unlike the default Apple App Store, which has rules and restrictions, this is a clean and safe place for app installation.
@@ -63,6 +63,14 @@ Repo URL -  https://iosgods.com/repo/
 _______________________________________________________________________
 
 ![How to install iOSGods using repo cydia, sileo ](https://github.com/user-attachments/assets/a3e381dd-9a68-4946-928e-28ebd59ebbfe)
+
+## How to install App Via iosGods
+
+### Normal Install
+This option will normally install the .deb file supplied. Just like Filza. It will support any deb files and always be reliable since it uses dpkg under the hood. iGameGod will attempt to convert rootful to rootless or vice versa if necessary before installation.
+
+### Install/Inject via iGameGod
+This is the new option introduced which will use iGameGod to inject the .deb file(s) supplied. This option will use iGameGod to inject the tweaks which nicely bundles all your tweaks inside the new iGameGod Installed Tweaks category in Tools. Another perk of this feature is that it also helps against detection some apps use. iGameGod will attempt to convert rootful to rootless or vice versa if necessary before installation.
 
 
 
