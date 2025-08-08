@@ -1,5 +1,5 @@
-# iOSGods - iOS 18.4
-iOSGods is the world's most extensive third-party Moded Tweaks app store library. You can find game mods, hacks, tutorials, tools, and related support here.
+# iOSGods - iOS 26, 18.6 & 15
+iOSGods is the world's most extensive third-party modded tweaks app store library. You can find game mods, hacks, tutorials, tools, and related support here.
 
 iOS God features hacked/Tweaked iOS Games, iOSGods' jailbroken App Store, Free Non-Jailbroken IPA Cheats, and more.
 
@@ -21,14 +21,19 @@ The apps also come with many additional and special features, such as unlimited 
 
 ## Download the iOSGod iPA file 
 
-You can also download the God iPA file and then install it using Altstore, Sideloadly, TrollStore, or Scarlet.
+You can also download the God IPA file and then install it using Altstore, Sideloadly, TrollStore, or Scarlet.
 
 [Download iOSGods IPA](https://mega.nz/file/YKojzSjJ#ezt5HrPv_CLVVegWfNB1IPdi_sNdKRKawdn0z8CJzNY)
+
+Read More:
+[iOS 26 Jailbreak Guide](https://github.com/iOS17/Jailbreak-iOS-26)
+[Install Jailbreak Tweak Master for iOS 26, 18.6, 17.7.2, 16, 15](https://udidmaster.com/pro/)
+[How to install Sideloadly New Update](https://github.com/iOS17/sideloadly)
 
 
 ## What is the iOSgods app?
 
-iOSGod app is a massive collection of the tweaked apps collection library. This allows users to install unique modded iPA apps, games, tweaked apps, jailbreak apps, and more freely. Also, users can take an iOSGods VIP version, which allows an online signing option to install apps. Users with an Apple developer account can also use this app without signup. 
+The iOSGod app is a massive collection of tweaked apps. This allows users to install unique modded IPA apps, games, tweaked apps, jailbreak apps, and more freely. Also, users can take an iOSGods VIP version, which allows an online signing option to install apps. Users with an Apple developer account can also use this app without signup. 
 
 The free app allows users to download the iPA files of the updated games, tweaks, and jailbreak apps. So users can download the apps in an IPA format and then sign it with the sideload (Pc Tool) like the app. The sideload needs a PC to sideload the IPA files instead of. If you want to install apps directly, you can use [Esign patch](https://zeejb.com/esign-app/), [Feather](https://zeejb.com/feather-ios/), or [9 Installer ](https://zeejb.com/9-install%d0%b5r/)like on the device iPA signer. 
 
